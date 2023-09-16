@@ -19,3 +19,4 @@ git commit:se utiliza para crear un nuevo commit
 git push: se utiliza para enviar cambios locales y commits a un repositorio remoto
 
 git merge:se utiliza para combinar los cambios de una rama con otra
+CAMBIO 4
